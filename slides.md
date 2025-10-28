@@ -27,9 +27,14 @@ hideInToc: true
 
 Eine Übersicht des Vereins Pro Rauchfrei e.V.
 
+<div class="mute">
+Inhalt: Dipl.-Jur. Stephan Weinberger, Zusammenstellung: Barbara Soukup-Sterl, Produktion: Rene Schmidt
+</div>
+
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Zum Starten drücken Sie die Leertaste <carbon:arrow-right />
 </div>
+
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
@@ -44,7 +49,7 @@ transition: fade-out
 
 # Was macht Pro Rauchfrei e.V.?
 
-…ist Deutschlands größter Nichtraucherverband, der sich für das Grundrecht auf rauchfreie Luft einsetzt, um Nichtraucher und aufhörwillige Raucher in Restaurants, Wohnräumen und Kinder zu schützen.
+…ist Deutschlands größte Nichtraucherlobby, die sich für das Grundrecht auf rauchfreie Luft einsetzt, um Nichtraucher und aufhörwillige Raucher in Restaurants, Wohnräumen und Kinder zu schützen.
 
 - <span v-click>🚀 **Mission**: Für eine rauchfreie Gesellschaft kämpfen und alle verfügbaren Mittel einsetzen.</span>
 - <span v-click>⚖️ **Recht** auf saubere Luft: Als Grundrecht des Grundgesetzes geschützt und lebensnotwendig für alle.</span>  
@@ -172,105 +177,156 @@ Was ist erlaubt oder unklar?
 <SlideRefs/>
 
 ---
-layout: image-right
-image: https://cover.sli.dev
+layout: center
 ---
 
-# Beispiele für verbotene Werbung  
+# Beispiele für verbotene Außenwerbung  
 
-Im Folgenden werden konkrete Beispiele für verbotene Tabak-Außenwerbung gezeigt:
-
-- Digitaldisplay an Kiosks (Veni1)  
-- Schaufensterplakate (Lycamobil_Elfbar)  
-- Werbeplakate neben Tankstellen (Ingolstadt)  
-- Türdisplay an Tankstellen (Krailling)  
-- Digitale City-Lights (Düsseldorf)  
+Es folgen konkrete Beispiele für verbotene Tabak- und Nikotin-**Außenwerbung**.
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
 ---
-layout: image-right
-image: public/img/beispiele/tabakwerbung/verboten/Veni1.JPG
-level: 2
-hideInToc: false
----
-
-# Verbotenes Digitaldisplay an Kiosk
-
-In dem Foto ist der Eingangsbereich eines Geschäfts zu sehen. Es gibt eine große Glasfront, die Einblick in den Innenraum gewährt. Im Inneren sind verschiedene Regale mit Produkten, wahrscheinlich Lebensmittel und Getränke, gut sichtbar angeordnet.
-
-Rechts vor dem Eingang steht ein beleuchtetes Digitaldisplay, auf dem „ZIGARETTEN“ steht, was darauf hinweist, dass auch Tabakwaren verkauft werden.
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
-
-<!-- Digitaldisplay Veni1 -->
----
+src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/01_digitaldisplay.md
+hide: false
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/LycaMobil_Elbar-Plakat.jpg
+image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/Veni1.JPG
 level: 2
 hideInToc: false
 ---
 
-# Verbotenes Schaufensterplakat am Telefonladen
-
-Das Foto zeigt eine Geschäftsauslage eines Mobilfunkladens.
-
-Zusätzlich sind in der Auslage Produkte wie Elfbar **E-Zigaretten** und weitere Mobilfunkartikel zu sehen. Die Fensterdekoration ist bunt gestaltet, um Kunden anzuziehen. Links und rechts sind weitere Produkte und Plakate sichtbar, die für verschiedene Mobilfunktarife und Dienstleistungen werben.
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
 ---
+src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/02_schaufensterplakat.md
+layout: image-right
+image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/LycaMobil_Elbar-Plakat.jpg
+level: 2
+hideInToc: false
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/03_tankstelle.md
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/Werbeplakat-E-Zigarette-Ingolstadt_beschnitten.jpg
+image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/Werbeplakat-E-Zigarette-Ingolstadt_beschnitten.jpg
 level: 2
 hideInToc: false
 ---
 
-# Verbotenes Werbeplakat neben Tankstelle
+---
+src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/04_tuerdisplay_krailing.md
+layout: image-right
+image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/Türwerbung-Tankstelle-Krailling_beschnitten.jpg
+level: 2
+hideInToc: false
+---
 
-Hier handelt es sich um eine Jet-Tankstelle in Ingolstadt. Rund um die Tankstelle sind Straßenverkehr und möglicherweise Geschäfte oder andere Einrichtungen zu sehen.
+---
+src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/05_digitale_city_lights.md
+layout: image-left
+image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/2024-08-31_Tankstelle-Erfurt_Türdisplay4_beschnitten.jpg
+level: 2
+hideInToc: false
+---
 
-Rechts im Bild ist auf dem Tankstellengelände ein verbotenes Werbeplakat für Vapes zu sehen.
+---
+layout: center
+---
+
+# Beispiele für verbotene Onlinewerbung  
+
+Im Folgenden werden konkrete Beispiele für verbotene Tabak- und Nikotin-**Onlinewerbung** gezeigt.
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
 ---
-layout: image-right
-image: https://cover.sli.dev
+src: ./pages/beispiele/tabakwerbung/verboten/online/01_werbebanner.md
+hide: false
+layout: image-left
+image: public/img/beispiele/tabakwerbung/verboten/online/2025-06-17_Werbebanner-Onlineshop_beschnitten.png
+level: 2
+hideInToc: false
 ---
 
-# Beispiele für Onlinewerbung  
-
-Digitale Werbeformen
-
-- Werbebanner in Onlineshops  
-- Pop-Up-Werbung (terea-bei-flink)  
-- Facebook/Instagram (Vape2, Al-Fakher)  
-- TikTok (tiktok-beste-vape2)  
-- Werbung mit Links zu Vergleichsseiten  
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
+---
+src: ./pages/beispiele/tabakwerbung/verboten/online/02_popup.md
+hide: false
+layout: image-right
+image: public/img/beispiele/tabakwerbung/verboten/online/popup_beschnitten.png
+level: 2
+hideInToc: false
+---
 
 ---
+src: ./pages/beispiele/tabakwerbung/verboten/online/03_facebook.md
+hide: false
+layout: image-left
+image: public/img/beispiele/tabakwerbung/verboten/online/Werbereel-Facebook.png
+level: 2
+hideInToc: false
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/verboten/online/04_tiktok.md
+hide: false
 layout: image-right
-image: https://cover.sli.dev
+image: public/img/beispiele/tabakwerbung/verboten/online/tiktok-beste-vape2.jpg
+level: 2
+hideInToc: false
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/verboten/online/05_vergleichsseiten.md
+hide: false
+layout: image-left
+image: public/img/beispiele/tabakwerbung/verboten/online/Werbung-Vergleichsseite-mit-Links.png
+level: 2
+hideInToc: false
+---
+
+---
+layout: center
 ---
 
 # Rechtlich ungeklärte Formen  
 
-Graubereiche
-
-- Werbung auf Sonnenschirmen (Gauloises)  
-- Werbung auf Abfallbehältern (Stuttgart)  
-- Branding in Einkaufszentren (Vuse5)  
-- Wurfzettel (Hand-Ort)  
+Graubereiche bei der Werbung für Tabak- und Nikotonprodukte bleiben zunächst offen.
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
+
+---
+src: ./pages/beispiele/tabakwerbung/ungeklärt/01_sonnenschirme.md
+layout: image-left
+image: public/img/beispiele/tabakwerbung/ungeklärt/Köln-Sonnenschirm-Gauloises.jpg
+level: 2
+hideInToc: false
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/ungeklärt/02_abfallbehälter.md
+layout: image-right
+image: public/img/beispiele/tabakwerbung/ungeklärt/2024-20-07_Werbung-auf-Abfallbehälter-Stuttgart.jpg
+level: 2
+hideInToc: false
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/ungeklärt/03_branding.md
+layout: image-left
+image: public/img/beispiele/tabakwerbung/ungeklärt/Vuse5.jpg
+level: 2
+hideInToc: false
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/ungeklärt/04_wurfzettel.md
+layout: image-right
+image: public/img/beispiele/tabakwerbung/ungeklärt/wurfzette_beschnittenl.png
+level: 2
+hideInToc: false
+---
+
 
 ---
 layout: image-right
