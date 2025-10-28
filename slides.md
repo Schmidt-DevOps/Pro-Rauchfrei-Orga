@@ -20,7 +20,7 @@ mdc: true
 duration: 35min
 
 colorSchema: light
-
+hideInToc: true
 ---
 
 # Was darf Tabakwerbung?
@@ -65,6 +65,7 @@ Here is another comment.
 ---
 layout: two-cols
 layoutClass: gap-36
+hideInToc: true
 ---
 
 # Übersicht über die Präsentation
@@ -83,7 +84,7 @@ layout: image-right
 image: https://cover.sli.dev
 ---
 
-# Fragestellung
+# Fragestellungen
 
 Wo ist das Tabakwerbeverbot geregelt, welche Produkte werden erfasst und welche Werbeformen sind untersagt? Ist Sponsoring auch gesetzlich reguliert?
 
@@ -92,6 +93,8 @@ Wo ist das Tabakwerbeverbot geregelt, welche Produkte werden erfasst und welche 
 - Verbotene Werbeformen  
 - Sponsoring-Regelungen  
 - Ausnahmen und Graubereiche  
+
+Die Präsentation soll diese Fragen beantworten.
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
@@ -173,9 +176,9 @@ layout: image-right
 image: https://cover.sli.dev
 ---
 
-# Beispiele für gesetzwidrige Werbung  
+# Beispiele für verbotene Werbung  
 
-Außenwerbung 
+Im Folgenden werden konkrete Beispiele für verbotene Tabak-Außenwerbung gezeigt:
 
 - Digitaldisplay an Kiosks (Veni1)  
 - Schaufensterplakate (Lycamobil_Elfbar)  
@@ -190,7 +193,7 @@ Außenwerbung
 layout: image-right
 image: public/img/beispiele/tabakwerbung/verboten/Veni1.JPG
 level: 2
-hideInToc: true
+hideInToc: false
 ---
 
 # Verbotenes Digitaldisplay an Kiosk
@@ -207,7 +210,7 @@ Rechts vor dem Eingang steht ein beleuchtetes Digitaldisplay, auf dem „ZIGARET
 layout: image-left
 image: public/img/beispiele/tabakwerbung/verboten/LycaMobil_Elbar-Plakat.jpg
 level: 2
-hideInToc: true
+hideInToc: false
 ---
 
 # Verbotenes Schaufensterplakat am Telefonladen
@@ -215,6 +218,21 @@ hideInToc: true
 Das Foto zeigt eine Geschäftsauslage eines Mobilfunkladens.
 
 Zusätzlich sind in der Auslage Produkte wie Elfbar **E-Zigaretten** und weitere Mobilfunkartikel zu sehen. Die Fensterdekoration ist bunt gestaltet, um Kunden anzuziehen. Links und rechts sind weitere Produkte und Plakate sichtbar, die für verschiedene Mobilfunktarife und Dienstleistungen werben.
+
+<ProRauchfreiLogo/>
+<SlideRefs/>
+---
+layout: image-left
+image: public/img/beispiele/tabakwerbung/verboten/Werbeplakat-E-Zigarette-Ingolstadt_beschnitten.jpg
+level: 2
+hideInToc: false
+---
+
+# Verbotenes Werbeplakat neben Tankstelle
+
+Hier handelt es sich um eine Jet-Tankstelle in Ingolstadt. Rund um die Tankstelle sind Straßenverkehr und möglicherweise Geschäfte oder andere Einrichtungen zu sehen.
+
+Rechts im Bild ist auf dem Tankstellengelände ein verbotenes Werbeplakat für Vapes zu sehen.
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
@@ -298,66 +316,6 @@ Kernpunkte
 - Umfassende Verbotsliste (Hörfunk, Internet, Sponsoring)  
 - Ausnahmen und Graubereiche (Innenraum, Tabakerhitzer)  
 - Aktuelle Probleme: Nicht-Einhaltung, unklare Formen  
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
-
----
-layout: image-right
-image: https://cover.sli.dev
----
-
-# Neue Seite
-
-Lorem Ipsum
-
-- eins
-- zwei 
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
-
----
-layout: image-right
-image: https://cover.sli.dev
----
-
-# Neue Seite
-
-Lorem Ipsum
-
-- eins
-- zwei 
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
-
----
-layout: image-right
-image: https://cover.sli.dev
----
-
-# Neue Seite
-
-Lorem Ipsum
-
-- eins
-- zwei 
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
-
----
-layout: image-right
-image: https://cover.sli.dev
----
-
-# Neue Seite
-
-Lorem Ipsum
-
-- eins
-- zwei 
 
 <ProRauchfreiLogo/>
 <SlideRefs/>
