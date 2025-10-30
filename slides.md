@@ -61,9 +61,6 @@ transition: fade-out
 
 <span v-click>🌐 Weitere Informationen auf [pro-rauchfrei.de](https://www.pro-rauchfrei.de)</span>
 
-<!--
-Here is another comment.
--->
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
@@ -120,6 +117,14 @@ Gesetze und Richtlinien
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
+<!-- 
+Wo ist das Tabakwerbeverbot geregelt, welche Produkte werden erfasst und welche Werbeformen sind untersagt? Ist Sponsoring auch gesetzlich reguliert?
+
+Angaben zum Verbot der Tabakwerbung finden sich in den Paragrafen 19-21 des Tabakerzeugnisgesetzes (TabakerzG). Nach dem Erwägungsgrund 43 der EU-Tabak-Richtlinie (RL 2014/40/EU) ist insbesondere für elektronische Zigaretten und Nachfüllbehälter ein restriktiver Ansatz in Bezug auf die Werbung zu verfolgen.
+
+Die Werbeverbote gelten für Tabakerzeugnisse, E-Zigaretten und Nachfüllbehälter 
+-->
+
 ---
 layout: image-right
 image: https://cover.sli.dev
@@ -139,6 +144,21 @@ Welche Werbeformen sind untersagt?
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
+<!--
+Verboten ist die Werbung
+- im Hörfunk
+- in der Presse oder in anderen gedruckten Erzeugnissen (außer die Veröffentlichungen richten sich ausschließlich an Mitarbeiter des Tabak- oder E-Zigarettenhandels oder sie wurden in einem Nicht-EU-Staat gedruckt und sind nicht hauptsächlich für den Markt in der EU bestimmt)
+- in Diensten der Informationsgesellschaft (Internet)
+- mit audiovisueller Kommunikation (d.h. durch Bilder mit oder ohne Ton; Beispiele: Fernsehwerbung, Sponsoring, Teleshopping und Produktplatzierung). Das Verbot gilt auch für Werbung zugunsten von Unternehmen, deren Haupttätigkeit die Herstellung oder der Verkauf dieser Erzeugnisse ist.
+- in Form von Außenwerbung (Plakate, Aufsteller, Monitore), außer an den Außenflächen inklusive dazugehöriger Fensterflächen von Geschäftsräumen des Fachhandels. 
+
+Verboten sind darüber hinaus werbliche Informationen für Tabakerzeugnisse, die
+
+- den Eindruck erwecken, dass der Konsum der oben genannten Erzeugnisse gesundheitlich unbedenklich oder dazu geeignet ist, die Funktion des Körpers, die Leistungsfähigkeit oder das Wohlbefinden günstig zu beeinflussen
+- Jugendliche oder Heranwachsende zum Konsum veranlassen oder sie darin bestärken
+- das Inhalieren von Tabakrauch als nachahmenswert erscheinen lassen
+- den Eindruck erwecken, die Inhaltsstoffe wären natürlich oder naturrein
+-->
 ---
 layout: image-right
 image: https://cover.sli.dev
@@ -157,6 +177,17 @@ Wann ist Sponsoring verboten?
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
+<!-- 
+
+Verbot des Sponsorings von Veranstaltungen oder Aktivitäten, die zum Ziel haben, den Verkauf von Tabakerzeugnissen, E-Zigaretten oder Nachfüllbehältern direkt oder indirekt zu fördern; jedoch nur, wenn
+
+- an der Aktivität oder Veranstaltung mehrere EU-Mitgliedstaaten beteiligt sind
+- die Veranstaltung oder Aktivität in mehreren EU-Mitgliedstaaten stattfindet
+- die Veranstaltung oder Aktivität eine sonstige grenzüberschreitende Wirkung hat.
+
+Damit sind Veranstaltungen oder Aktivitäten, die sich auf Deutschland beschränken, von diesem Verbot ausgenommen. 
+
+-->
 ---
 layout: image-right
 image: https://cover.sli.dev
@@ -176,6 +207,88 @@ Was ist erlaubt oder unklar?
 <ProRauchfreiLogo/>
 <SlideRefs/>
 
+<!--
+Werbung für Tabakerzeugnisse, E-Zigaretten oder Nachfüllbehälter in Innenräumen, soweit sie nicht den oben aufgezählten Verboten unterliegen, ist gesetzlich nicht geregelt und daher nicht verboten.
+Probleme und nicht rechtlich geklärte Bereiche
+
+- Tabakautomaten mit Werbeaufklebern oder -displays in Außenbereichen: Werbung an der Verkaufsstelle oder Außenwerbung? Nach der freiwilligen Selbstverpflichtung des BDTA von 1997 gegenüber dem Bundesgesundheitsministerium dürfen Tabakautomaten keine Werbung zeigen (gilt nicht für E-Zigaretten-Automaten)
+- Was ist unter „Fachhandel“ zu verstehen? Obwohl Pro Rauchfrei 2020 eine Definition anmahnte; folgte der Gesetzgeber dem nicht. Laut den wissenschaftlichen Diensten des Bundestags ist „Fachhandel“ sehr eng zu verstehen als reiner Handel für Tabakerzeugnisse oder E-Zigaretten. Ein Graubereich sind die kleinen Presse-Lotto-Tabak-Läden vor, bei denen offensichtlich Tabakprodukte den größten Teil des Sortiments ausmachen. 
+Bei Kiosks mit einem breiteren Warenangebot von Tabak, Zeitschriften, Getränken, Süßigkeiten, Eis und Snacks, bei Tankstellen, Lebensmittelläden oder anderen Läden mit breiterem Sortiment ist Außenwerbung für Tabakerzeugnisse, E-Zigaretten oder Nachfüllbehälter eindeutig gesetzwidrig. 
+- Wie sind Tabakerhitzer einzustufen? Sie sind nicht explizit vom Werbeverbot erfasst, jedoch ihre Füllungen schon, nämlich unter dem nachträglich eingefügten Begriff „erhitzte Tabakerzeugnisse“. Tabakerhitzer sind ohne ihre Füllungen funktionslos und sind daher zumindest als indirekte Werbung für Tabakerzeugnisse anzusehen. 
+- Noch ungeklärt: Ist Werbung an Schaufenstern von Nicht-Fachgeschäften innerhalb eines Einkaufszentrums Innen- oder Außenwerbung?
+- Noch ungeklärt: Werbung in Form von massenweise verteilten Wurfzetteln, Werbung auf Fahrzeugen, Sonnenschirmen, Abfallbehältern, Stühlen, Aschenbechern, Gläsern: Alle diese Werbeformen werden reichlich genutzt.
+- Sind „Produkttests“ oder Ankündigungen neuer Produkte in Zeitschriften online oder offline, in Influencer-Videos oder in den sozialen Medien: neutrale Kundeninformation oder Werbung?
+
+Bei allen diesen Fragen ist anzumerken, dass Gerichte bisher das Tabakwerbeverbot immer sehr weitgehend ausgelegt haben, gemäß der Formulierung in § 2 Nr. 5 des Tabakerzeugnisgesetzes, das Werbung definiert als: „jede Art kommerzieller Kommunikation mit dem Ziel oder mit der direkten oder indirekten Wirkung, den Verkauf eines Erzeugnisses zu fördern“
+
+ABER: Sei es verbotene Außenwerbung oder nicht eindeutig geklärter Graubereich: Die Tabak- und E-Zigarettenbranche verstößt täglich massenhaft gegen bestehende gesetzliche Regelungen, dehnt Ausnahmen von Werbeverboten bis über ihre Grenzen hinaus aus und interpretiert nicht explizit formulierte Werbeformen als erlaubt. 
+
+Aufgrund mangelnder Umsetzung greifen die Tabakwerbeverbote daher kaum: Statt mit Großplakaten an Straßen, Haltestellen und Gebäudewänden haben wir es heute mit Kundenstoppern, Schaufensterplakaten, digitalen Displays und Monitoren in Tausenden von Verkaufsstellen zu tun. Diese Werbeformen sind häufig so angebracht, dass sie durch die Schaufenster und Türen nach außen wirken und sind daher als Außenwerbung einzustufen. Pro Rauchfrei hat bereits Supermärkte, Tankstellen, Kiosks und weitere Verkaufsstellen wegen Tabakaußenwerbung abgemahnt und wird das weiterhin tun.  
+
+-->
+---
+layout: center
+---
+
+# Beispiele für nicht verbotene Werbung  
+
+Nicht alle Werbeformen für Tabak- und Nikotinprodukte sind verboten.
+
+<ProRauchfreiLogo/>
+<SlideRefs/>
+
+---
+src: ./pages/beispiele/tabakwerbung/03_nicht_verboten/01_innenraeume.md
+layout: image-left
+image: img/beispiele/tabakwerbung/03_nicht_verboten/01_Tabakpräsentation-und-werbung-in-Edeka-Ebersberg.jpg
+level: 2
+hideInToc: true
+---
+
+---
+layout: center
+---
+
+# Beispiele für rechtlich unklare Formen  
+
+Graubereiche bei der Werbung für Tabak- und Nikotonprodukte bleiben zunächst offen.
+
+<ProRauchfreiLogo/>
+<SlideRefs/>
+
+---
+src: ./pages/beispiele/tabakwerbung/02_ungeklärt/01_sonnenschirme.md
+layout: image-left
+image: img/beispiele/tabakwerbung/02_ungeklärt/01_Köln-Sonnenschirm-Gauloises.jpg
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/02_ungeklärt/02_abfallbehälter.md
+layout: image-right
+image: img/beispiele/tabakwerbung/02_ungeklärt/02_2024-20-07_Werbung-auf-Abfallbehälter-Stuttgart.jpg
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/02_ungeklärt/03_branding.md
+layout: image-left
+image: img/beispiele/tabakwerbung/02_ungeklärt/03_Vuse5.jpg
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/02_ungeklärt/04_wurfzettel.md
+layout: image-right
+image: img/beispiele/tabakwerbung/02_ungeklärt/04_wurfzette_beschnittenl.png
+level: 2
+hideInToc: true
+---
+
+
 ---
 layout: center
 ---
@@ -188,45 +301,86 @@ Es folgen konkrete Beispiele für verbotene Tabak- und Nikotin-**Außenwerbung**
 <SlideRefs/>
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/01_digitaldisplay.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/01_digitaldisplay.md
 hide: false
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/Veni1.JPG
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/01_Veni1_beschnitten.JPG
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/02_schaufensterplakat.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/02_schaufensterplakat.md
 layout: image-right
-image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/LycaMobil_Elbar-Plakat.jpg
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/02_LycaMobil_Elbar-Plakat_beschnitten.jpg
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/03_tankstelle.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/03_tankstelle.md
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/Werbeplakat-E-Zigarette-Ingolstadt_beschnitten.jpg
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/03_Werbeplakat-E-Zigarette-Ingolstadt_beschnitten.jpg
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/04_tuerdisplay_krailing.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/04_tuerdisplay_krailing.md
 layout: image-right
-image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/Türwerbung-Tankstelle-Krailling_beschnitten.jpg
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/04_Türwerbung-Tankstelle-Krailling_beschnitten.jpg
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/aussenwerbung/05_digitale_city_lights.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/05_tankstelle_erfurt.md
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/aussenwerbung/2024-08-31_Tankstelle-Erfurt_Türdisplay4_beschnitten.jpg
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/05_2024-08-31_Tankstelle-Erfurt_Türdisplay4_beschnitten.jpg
 level: 2
-hideInToc: false
+hideInToc: true
 ---
+
+---
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/06_digitale_city_lights.md
+layout: image-right
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/06_Tabak-Ploom-Düsseldorf_bearbeitet.jpg
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/07_digitaldisplay_tankstellenshop.md
+layout: image-left
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/07_Mühldorf_VuseGo_bearbeitet.JPG
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/08_saltswitch.md
+layout: image-right
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/08_saltswitch_bearbeitet.png
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/09_outlet.md
+layout: image-left
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/09_popup_outlet_hervorgehoben.jpg
+level: 2
+hideInToc: true
+---
+
+---
+src: ./pages/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/10_werbeschilder_bahnhofsgebaeude.md
+layout: image-right
+image: img/beispiele/tabakwerbung/01_verboten/01_aussenwerbung/10_Werbeschilder-Aulendorf_beschnitten.jpg
+level: 2
+hideInToc: true
+---
+
 
 ---
 layout: center
@@ -240,108 +394,49 @@ Im Folgenden werden konkrete Beispiele für verbotene Tabak- und Nikotin-**Onlin
 <SlideRefs/>
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/online/01_werbebanner.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/02_online/01_werbebanner.md
 hide: false
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/online/2025-06-17_Werbebanner-Onlineshop_beschnitten.png
+image: img/beispiele/tabakwerbung/01_verboten/02_online/01_2025-06-17_Werbebanner-Onlineshop_beschnitten.png
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/online/02_popup.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/02_online/02_popup.md
 hide: false
 layout: image-right
-image: public/img/beispiele/tabakwerbung/verboten/online/popup_beschnitten.png
+image: img/beispiele/tabakwerbung/01_verboten/02_online/02_popup_beschnitten.png
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/online/03_facebook.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/02_online/03_facebook.md
 hide: false
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/online/Werbereel-Facebook.png
+image: img/beispiele/tabakwerbung/01_verboten/02_online/03_Werbereel-Facebook.png
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/online/04_tiktok.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/02_online/04_tiktok.md
 hide: false
 layout: image-right
-image: public/img/beispiele/tabakwerbung/verboten/online/tiktok-beste-vape2.jpg
+image: img/beispiele/tabakwerbung/01_verboten/02_online/04_tiktok-beste-vape2.jpg
 level: 2
-hideInToc: false
+hideInToc: true
 ---
 
 ---
-src: ./pages/beispiele/tabakwerbung/verboten/online/05_vergleichsseiten.md
+src: ./pages/beispiele/tabakwerbung/01_verboten/02_online/05_vergleichsseiten.md
 hide: false
 layout: image-left
-image: public/img/beispiele/tabakwerbung/verboten/online/Werbung-Vergleichsseite-mit-Links.png
+image: img/beispiele/tabakwerbung/01_verboten/02_online/05_Werbung-Vergleichsseite-mit-Links.png
 level: 2
-hideInToc: false
+hideInToc: true
 ---
-
----
-layout: center
----
-
-# Rechtlich ungeklärte Formen  
-
-Graubereiche bei der Werbung für Tabak- und Nikotonprodukte bleiben zunächst offen.
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
-
----
-src: ./pages/beispiele/tabakwerbung/ungeklärt/01_sonnenschirme.md
-layout: image-left
-image: public/img/beispiele/tabakwerbung/ungeklärt/Köln-Sonnenschirm-Gauloises.jpg
-level: 2
-hideInToc: false
----
-
----
-src: ./pages/beispiele/tabakwerbung/ungeklärt/02_abfallbehälter.md
-layout: image-right
-image: public/img/beispiele/tabakwerbung/ungeklärt/2024-20-07_Werbung-auf-Abfallbehälter-Stuttgart.jpg
-level: 2
-hideInToc: false
----
-
----
-src: ./pages/beispiele/tabakwerbung/ungeklärt/03_branding.md
-layout: image-left
-image: public/img/beispiele/tabakwerbung/ungeklärt/Vuse5.jpg
-level: 2
-hideInToc: false
----
-
----
-src: ./pages/beispiele/tabakwerbung/ungeklärt/04_wurfzettel.md
-layout: image-right
-image: public/img/beispiele/tabakwerbung/ungeklärt/wurfzette_beschnittenl.png
-level: 2
-hideInToc: false
----
-
-
----
-layout: image-right
-image: https://cover.sli.dev
----
-
-# Nicht verbotene Werbung  
-
-Erlaubte Werbeformen
-
-- Werbung in Innenräumen (z. B. Supermärkte)  
-- **Beispiel**: Tabakpräsentation in Edeka (Ebersberg)  
-
-<ProRauchfreiLogo/>
-<SlideRefs/>
 
 ---
 layout: image-right
