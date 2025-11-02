@@ -21,6 +21,7 @@ duration: 35min
 
 colorSchema: light
 hideInToc: true
+layout: cover
 ---
 
 # Was darf Satire? Ziemlich viel.
@@ -88,7 +89,7 @@ Gezeigt werden auch konkrete Beispiele verbotener Werbung für Tabak- und Nikoti
 
 ---
 layout: image-right
-image: https://cover.sli.dev
+image: img/german_law_by_mistral_ai.jpg
 ---
 
 # Rechtliche Grundlagen
@@ -111,8 +112,8 @@ Die Werbeverbote gelten für Tabakerzeugnisse, E-Zigaretten und Nachfüllbehält
 -->
 
 ---
-layout: image-right
-image: https://cover.sli.dev
+layout: image-left
+image: img/tobacco_ads_by_mistral_ai.jpg
 ---
 
 # Verbotene Werbeformen  
@@ -147,7 +148,7 @@ Verboten sind darüber hinaus werbliche Informationen für Tabakerzeugnisse, die
 -->
 ---
 layout: image-right
-image: https://cover.sli.dev
+image: img/money_by_craiyon_ai.webp
 ---
 
 # Sponsoring-Regelungen  
@@ -176,7 +177,7 @@ Damit sind Veranstaltungen oder Aktivitäten, die sich auf Deutschland beschrän
 -->
 ---
 layout: image-right
-image: https://cover.sli.dev
+image: img/A_solitary_man_stands_in_the_center_of_a_vast__sunlit_open_field__surr_S524643_St20_G7.5_beschnitten.webp
 ---
 
 # Ausnahmen und Graubereiche  
@@ -427,7 +428,7 @@ hideInToc: true
 
 ---
 layout: image-right
-image: https://cover.sli.dev
+image: img/A_fantasy_army_charging_a_dragon_that_is_smoking_a_big_cigar_with_reli_S122138858_St40_G7.5_beschnitten.webp
 ---
 
 # Herausforderungen und Nicht-Einhaltung  
