@@ -48,25 +48,24 @@ jobs:
             ${{ runner.os }}-pnpm-store-
 
       - name: Install dependencies
-        working-directory: ./Pro-Rauchfrei-Slidev-Theme
+        working-directory: Pro-Rauchfrei-Slidev-Theme
         run: pnpm install
 
       - name: Install dependencies
-        working-directory: ./2025-12-01-Tabakwerbung
+        working-directory: 2025-12-01-Tabakwerbung
         run: pnpm install
 
       - name: Build slides
-        working-directory: ./2025-12-01-Tabakwerbung
+        working-directory: 2025-12-01-Tabakwerbung
         run: pnpm build --base ${{ steps.deployment.outputs.page_url }}/2025-12-01-Tabakwerbung/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        working-directory: ./2025-12-01-Tabakwerbung
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "dist"
+          path: "2025-12-01-Tabakwerbung/dist"
 
   deploy:
     environment:
