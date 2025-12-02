@@ -57,7 +57,7 @@ jobs:
 
       - name: Build slides
         working-directory: 2025-12-01-Tabakwerbung
-        run: pnpm build --base ${{ steps.deployment.outputs.page_url }}/2025-12-01-Tabakwerbung/
+        run: pnpm build --base ${{ steps.deployment.outputs.page_url }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
